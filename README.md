@@ -21,7 +21,7 @@ Plantix uses deep learning to analyze photos of plant leaves and predict whether
 
 ## 🧪 Dataset
 
-_TBD — e.g., PlantVillage dataset, custom-collected images, Kaggle dataset._
+_Kaggle dataset._
 
 ---
 
@@ -58,7 +58,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📄 License
 
-_TBD — e.g., MIT / Apache 2.0._
+MIT / Apache 2.0._
 
 ---
 
